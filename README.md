@@ -4,3 +4,9 @@ LEARNit is a game that shows the history of old museum pieces. It seems that the
 Simple player controls:
 WASD and LSHIFT(to sprint in Main Hub) - Player1
 Left,Right,Up,Down and RSHIFT - Player2
+
+Link to source code
+https://drive.google.com/file/d/1KJ2F2Az4JDh9tc3_FRWPDlLTuA37nNJN/view?usp=sharing
+
+Link to .EXE file
+https://drive.google.com/file/d/1CpnbIJvwkTDycPJCbtVw3H0M-FIzjKvP/view?usp=sharing
